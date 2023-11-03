@@ -19,3 +19,4 @@ cd OpenLane
 make
 make test
 ```
+After ```OpenLane``` is set up on your computer. To enter the ```OpenLane``` environment, cd ```$HOME/OpenLane``` and then ```make mount```.
