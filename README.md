@@ -5,11 +5,11 @@ Accelerator Design process using GF180 for MPW1
 
 1.    Get Docker (or a compatible container engine)
     <ul>
-    <li>On Ubuntu, follow the Docker post install instructions after you install Docker.
-    <li>Get Python 3.6 or higher (macOS | Ubuntu)
-    <li>On Ubuntu, you may also need to install venv: ```apt-get install python3-venv```, and pip: ```apt-get install python3-pip```.
-    <li>Get git (macOS | Ubuntu)
-    <li>Get GNU Make (macOS | Ubuntu)
+    <li>On Ubuntu, follow the Docker post install instructions after you install Docker.</li>
+    <li>Get Python 3.6 or higher (macOS | Ubuntu)</li>
+    <li>On Ubuntu, you may also need to install venv: ```apt-get install python3-venv```, and pip: ```apt-get install python3-pip```.</li>
+    <li>Get git (macOS | Ubuntu)</li>
+    <li>Get GNU Make (macOS | Ubuntu)</li>
     </ul>
 
 3.    Run the following commands in your command-line prompt:
