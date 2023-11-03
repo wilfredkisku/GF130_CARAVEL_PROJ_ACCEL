@@ -10,7 +10,7 @@ Accelerator Design process using GF180 for MPW1
     <li>On Ubuntu, you may also need to install venv: ```apt-get install python3-venv```, and pip: ```apt-get install python3-pip```.
     <li>Get git (macOS | Ubuntu)
     <li>Get GNU Make (macOS | Ubuntu)
-    <\ul>
+    </ul>
 
 3.    Run the following commands in your command-line prompt:
 
