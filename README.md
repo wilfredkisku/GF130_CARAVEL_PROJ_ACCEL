@@ -4,6 +4,7 @@ Accelerator Design process using GF180 for MPW1
 ## Setting Tools and PDKs for ```gf180mcu```
 
 1.    Get Docker (or a compatible container engine)
+-
     -    On Ubuntu, follow the Docker post install instructions after you install Docker.
     -    Get Python 3.6 or higher (macOS | Ubuntu)
     -    On Ubuntu, you may also need to install venv: ```apt-get install python3-venv```, and pip: ```apt-get install python3-pip```.
